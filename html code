@@ -1,0 +1,94 @@
+<html>
+
+<head>
+<title>Korniienko Illia home page!</title>
+</head>
+
+<body>
+
+<span style="font-family: Trebuchet MS;">
+
+<center>
+<h10><br>portfolio website</br>
+some information about me and my work
+</center>
+</h10>
+
+<center>
+  
+<table cellspacing="2" border="3" cellpadding="3" width="600">
+
+<tr><td>My CV in Ukrainian:</td>
+</td>
+<td valign="middle"  align="center">
+<a href="https://drive.google.com/file/d/13FFVoutYtV-LBkHDAebjG6TED1B184Ck/view?usp=sharing" target="_blank">
+<button class="closeButton">CV in UKR (pdf)</button>
+</a>
+</td>   
+
+<tr><td>My CV in English:</td>
+<td valign="middle"  align="center">
+<a href="https://drive.google.com/file/d/1VYKa0Fx7YLnEywCtA3tkmof3pSQRYT2H/view?usp=sharing" target="_blank">
+<button class="closeButton">CV in ENG (pdf)</button>
+</td>
+
+
+<tr><td>Link to my GitHub:</td>
+<td>
+<center> 
+<p>
+<a href="https://github.com/IlyaKornienko?tab=repositories" target="_blank">
+<img src="https://miro.medium.com/max/1400/1*SSRjtoQ0H2X3SBPOiJ5rZw.jpeg" title="link in GitHub page" width="120" height="70" alt> 
+</p>
+</a>
+</center>
+</td>
+
+
+<tr><td>Simple site built on AWS WordPress:</br></td>
+<td valign="middle"  align="center">
+<a href="https://explore-sklad.website" target="_blank">
+<button class="closeButton" title="explore-sklad.website">explore-sklad.website</button>
+</a>
+</td>
+
+<tr><td>"tg_ff_korniienko" Telegram bot on python in docker:</td>
+<br></br>
+<td valign="middle"  align="center">
+<a href="https://t.me/Family_Finances_Korniienko_bot" target="_blank">
+<button class="closeButton" title="link in telegram bot">tg_ff_korniienko<br>telegtam bot</br></button>
+</a>
+</td>
+
+
+<tr><td>"Studio_Odintsovoy" Telegram bot on python in docker:</td>
+<td valign="middle"  align="center">
+<a href="https://t.me/Studio_Odintsovoy_bot" target="_blank">
+<button class="closeButton" title="link in telegram bot">Studio_Odintsovoy<br>telegtam bot</br></button>
+</a>
+</td>
+
+
+<tr><td>My certifications:</td>
+
+<td>Netology: <a href="/linux.html">IT systems and Linux</a>
+<br></br>
+
+Netology: <a href="/network.html">Network, network protocols and Bash</a>
+<br></br>
+
+SUPERLUDI: <a href="/pf.html" color="black">Prodigy finance</a>
+<br></br>
+
+Netology: <a href="/excel.html">Excel data tools for marketers and analysts</a>
+</td>
+
+
+  </table>
+</center>
+
+</span>
+
+ </body>
+
+</html>
